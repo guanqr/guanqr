@@ -1,4 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guanqr&show_icons=true&icon_color=5D89EF&hide_title=true" />
+
 ### Hi there 👋
+
+- 😄 I'm Keiyui Kwan, a student from College of Optical Science and Engineering, Zhejiang University.
+- 🌱 My blog: <https://guanqr.com>
+- ⚡ To infinity… and beyond!
 
 <!--
 **guanqr/guanqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

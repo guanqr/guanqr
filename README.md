@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 - 😄 I'm Keiyui Kwan, a student from College of Optical Science and Engineering, Zhejiang University.
-- 🌱 My blog: <https://guanqr.com>
 - ⚡ To infinity… and beyond!
 
 <!--

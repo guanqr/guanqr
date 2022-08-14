@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 😄 I'm Keiyui Kwan, a student from College of Optical Science and Engineering, Zhejiang University.
+- 😄 I'm Guan Qirui. I graduated from College of Optical Science and Engineering, Zhejiang University in 2021, and am engaged in the optical design of LiDAR now.
 - ⚡ To infinity… and beyond!
 
 <!--
